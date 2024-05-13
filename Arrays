@@ -10,4 +10,6 @@ int removeDuplicates(int arr[], int n)
     }
   }
   return i + 1;
+//best approach
+
 }
